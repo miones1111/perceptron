@@ -1,0 +1,11 @@
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Miones_PerceptronAlgo\Miones_PerceptronAlgo\bin\Debug\Miones_PerceptronAlgo.exe.config
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Miones_PerceptronAlgo\Miones_PerceptronAlgo\bin\Debug\Miones_PerceptronAlgo.exe
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Miones_PerceptronAlgo\Miones_PerceptronAlgo\bin\Debug\Miones_PerceptronAlgo.pdb
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Miones_PerceptronAlgo\Miones_PerceptronAlgo\obj\Debug\Miones_PerceptronAlgo.csproj.AssemblyReference.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Miones_PerceptronAlgo\Miones_PerceptronAlgo\obj\Debug\Miones_PerceptronAlgo.csproj.SuggestedBindingRedirects.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Miones_PerceptronAlgo\Miones_PerceptronAlgo\obj\Debug\Miones_PerceptronAlgo.Form1.resources
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Miones_PerceptronAlgo\Miones_PerceptronAlgo\obj\Debug\Miones_PerceptronAlgo.Properties.Resources.resources
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Miones_PerceptronAlgo\Miones_PerceptronAlgo\obj\Debug\Miones_PerceptronAlgo.csproj.GenerateResource.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Miones_PerceptronAlgo\Miones_PerceptronAlgo\obj\Debug\Miones_PerceptronAlgo.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Miones_PerceptronAlgo\Miones_PerceptronAlgo\obj\Debug\Miones_PerceptronAlgo.exe
+C:\Users\my pc\Dropbox\PC\Documents\BSCS\CS - 3rd Year\BSCS - 3 (Second Sem)\Intelligence System 2\Miones_PerceptronAlgo\Miones_PerceptronAlgo\obj\Debug\Miones_PerceptronAlgo.pdb
